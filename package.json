@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "0.1.1",
+  "description": "Node Module to use OG Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulvijayakumarpr/og-scraper.git"
+  },
+  "author": "Rahul Vijayakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulvijayakumarpr/og-scraper/issues"
+  },
+  "homepage": "https://github.com/rahulvijayakumarpr/og-scraper#readme",
+  "dependencies": {
+    "open-graph-scraper": "^4.11.1"
+  }
+}
